@@ -1,7 +1,7 @@
 # Borisenkov Alexey
 
 ## Contacts
-- Email: baster484@gmail.com
+- Email: [baster484@gmail.com](mailto:baster484@gmail.com)
 - GitHub: [github.com/baster84](https://github.com/baster84)
 
 ## Summary
