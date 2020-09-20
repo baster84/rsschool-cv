@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #24292e;
+  background-color: #fff;
+  margin: 32px 0;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.photo {
+  width: 170px;
+}
+
+.sidebar {
+  position: fixed;
+  padding: 0px 0px 60px 0px;
+  width: 200px;
+  height: 100vh;
+}
+
+.content {
+    margin-left: 200px;
+}
+
+pre {
+  background-color: lightgrey;
+  padding: 20px;
+}
+
+.section {
+  margin-bottom: 40px;
+}
+
+.title {
+  color: #333;
+  font-weight: 400;
+  border-bottom: 1px solid #ddd;
+}
